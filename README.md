@@ -1,0 +1,1 @@
+# nim-static-walkFiles-test
